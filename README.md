@@ -21,7 +21,6 @@ EasyX库安装方法:双击 EasyX_20200520(beta).exe 打开 后选择Microsoft V
 ![图片1](https://user-images.githubusercontent.com/92048059/201513443-f5d68d66-fe26-4396-8cf0-391ac2360a1c.png)
 
 
-
 <br/>
 
 ## 备注：
